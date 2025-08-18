@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GauravRawat7
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 📫 How to reach me : grawatgaurav7@gmail.com
 
 <!---
 GauravRawat7/GauravRawat7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
