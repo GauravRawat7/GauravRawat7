@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravRawat7
-- 👀 I’m interested in Computer Architecture and System Design 
+- 👀 I’m interested in Computer Architecture  
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : grawatgaurav7@gmail.com
 
